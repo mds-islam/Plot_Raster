@@ -1,7 +1,7 @@
 # Plot_Raster
 This script contains MATLAB codes to perform relationship estimation between two variables where the data are in raster format. This script estimated the relationship between climate variables and phenology parameters. For example, the relationship between precipitation and the length of season, elevation and the length of season, and precipitation and the small integral.
 
-The script given here is a part of one of the academic projects at Lund University. I wrote this code entirely for statistical analysis. However, there were three members in this project (Md Saiful Islam, Maja Holm, and Maja Källehult) who jointly performed the phenology estimation and report writing. 
+The script given here is a part of one of the academic projects at Lund University. I wrote this code for statistical analysis. However, there were three members in this project (Myself, Maja Holm, and Maja Källehult) who jointly performed the other tasks of the project, i.e., phenology estimation, data processing, report writing. 
 
 The original project dealt with the phenology parameters of vegetation in the eastern Sahel region. The phenology variables were estimated using the TIMESAT application from MODIS images. You can learn more about TIMESAT here: https://web.nateko.lu.se/timesat/timesat.asp. We also used TerrSet and ArcGIS Pro to process raster and vector data in this project.
 
