@@ -1,5 +1,5 @@
 # Plot_Raster
-This algorithm contains MATLAB codes to perform relationship estimation between two variables where the data are in raster format. This script estimated the relationship between climate variables and phenology parameters. For example, the relationship between precipitation and the length of season, elevation and the length of season, and precipitation and the small integral.
+This script contains MATLAB codes to perform relationship estimation between two variables where the data are in raster format. This script estimated the relationship between climate variables and phenology parameters. For example, the relationship between precipitation and the length of season, elevation and the length of season, and precipitation and the small integral.
 
 The script given here is a part of one of the academic projects at Lund University. I wrote this code entirely for statistical analysis. However, there were three members in this project (Md Saiful Islam, Maja Holm, and Maja Källehult) who jointly performed the phenology estimation and report writing. 
 
